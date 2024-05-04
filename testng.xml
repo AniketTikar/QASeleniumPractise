@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+		<!-- 
+      <class name="SeleniumBasicPackage.DropDownDemo"/>
+      <class name="SeleniumBasicPackage.ExcelWriteDemo"/>
+      <class name="SeleniumBasicPackage.SSLCertificateDemo"/>
+      <class name="SeleniumBasicPackage.ExplicitWaitDemo"/>
+      <class name="SeleniumBasicPackage.AlertDemo"/>
+      <class name="SeleniumBasicPackage.AutoSuggestionDemo"/>
+      <class name="SeleniumBasicPackage.SuiteDemo"/>
+      <class name="SeleniumBasicPackage.ExcelReadDemo"/>
+      <class name="SeleniumBasicPackage.ImplicitWaitDemo"/>
+      <class name="SeleniumBasicPackage.KeyBoardEventsDemo"/>
+      <class name="SeleniumBasicPackage.FramesDemo"/>
+      <class name="SeleniumBasicPackage.MouseOverDemo"/>
+      <class name="SeleniumBasicPackage.WindowHandles"/>
+      <class name="SeleniumBasicPackage.JavaScriptExecutorDemo"/>
+      <class name="SeleniumBasicPackage.NumberOfElements"/>
+      <class name="SeleniumBasicPackage.ClicksDemo"/>
+      <class name="SeleniumBasicPackage.FluentWaitDemo"/>
+      <class name="SeleniumBasicPackage.ExcelRead"/>
+      <class name="SeleniumBasicPackage.SliderDemo"/>
+      <class name="SeleniumBasicPackage.Annotation"/>
+      <class name="SeleniumBasicPackage.WebDriverInitialization"/>
+      -->
+      <class name="SeleniumBasicPackage.DragAndDrop"/>
+      <class name="SeleniumBasicPackage.ResizeableDemo"/>
+      <class name="SeleniumBasicPackage.DataProviderDemo"/>
+      <class name="SeleniumBasicPackage.WebTableDemmo"/>
+      <class name="SeleniumBasicPackage.ScreenshotsDemo"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

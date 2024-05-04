@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="ParametersDemo">
+	  <parameter name="username" value="miamikettikar@gmail.com"></parameter>
+	  <parameter name="password" value="Tikar@1999"></parameter>
+	  
+	  <classes>
+		  <class name="SeleniumAdvance.ParametersDemo"></class>
+	  </classes>
+  </test> <!-- ParametersDemo -->
+</suite> <!-- Suite -->
